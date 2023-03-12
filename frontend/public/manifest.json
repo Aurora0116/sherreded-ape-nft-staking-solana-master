@@ -1,0 +1,8 @@
+{
+  "short_name": "Shredded Ape NFT Staking",
+  "name": "Shredded Ape NFT Staking",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
